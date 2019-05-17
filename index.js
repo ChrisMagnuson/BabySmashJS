@@ -1,4 +1,4 @@
-import koa from 'koa'
+import Koa from 'koa'
 
 const app = new Koa();
 
